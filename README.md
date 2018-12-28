@@ -4,7 +4,7 @@ Distributed Knowledge Graph System Construction and Its Application on Microbe R
 
 分布式知识图谱系统的构建及其在微生物RDF数据集上的应用
 
-本项目是基于gStore系统[http://www.icst.pku.edu.cn/intro/leizou/projects/gStore.htm]进行的分布式应用。
+本项目是基于[gStore系统](http://www.icst.pku.edu.cn/intro/leizou/projects/gStore.htm)进行的分布式应用。
 
 本项目仅上传相对于原代码改动过的文件。
 
